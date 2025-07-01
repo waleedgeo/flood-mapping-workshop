@@ -10,6 +10,10 @@ The workshop is divided into two parts. First is the brief presentation which sh
 
 To open the notebooks in Google Colab, click the `Open in Colab` buttons above. You can also [download the notebooks and run them locally on your machine](/flood-mapping-workshop.ipynb).
 
+### Update (01 July 2025):
+
+The workshop was conducted on 30th June 2025. The recordings will be made available soon. Meanwhile you can access the workshop presentation [here](/flood-mapping-workshop-presentation.pdf).
+
 Topics Covered:
 - Why use the Python API for Google Earth Engine?
 - Python Fundamentals (Syntax, Data Types, Lists, Dictionaries, Functions)
