@@ -1,5 +1,7 @@
 ## Flood Inundation Mapping & Impacts: Leveraging Google Earth Engine Python API and Spatial Analytics
 
+![Poster Image](/img/poster.png)
+
 [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/waleedgeo/flood-mapping-workshop/blob/main/flood-mapping-workshop.ipynb)
 
 Welcome to a comprehensive workshop designed to introduce you to the power of Google Earth Engine (GEE) with Python, focusing on its application in large-area flood inundation mapping. This workshop is tailored for researchers who are familiar with GEE's JavaScript API but are new to Python-based Earth Engine.
